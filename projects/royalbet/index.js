@@ -7,6 +7,8 @@ module.exports = {
       return sumTokens2({
         owners: [
           "6LdMpwdL9i5wSM3ujMDdThtVpBeWgMcMtaKWUvpcNeno",
+          "FKb3qBvS84unKRxiCQr2Jm1J3JSnUZbik9ddAXqagAfF",
+          "MoEcUAUh3zC8gGMh2wiRJx3ShbAoHqpxLKeGfJ1KFcm",
         ],
       });
     },
